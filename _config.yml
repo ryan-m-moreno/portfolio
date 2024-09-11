@@ -2,7 +2,7 @@ title: ""
 description: ""
 baseurl: ""
 url: ""
-
+theme: cvless
 exclude:
   - demo/
   - cvless.gemspec

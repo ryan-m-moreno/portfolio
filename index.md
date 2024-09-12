@@ -11,7 +11,7 @@
 
 
 # ABOUT ME 
-![Branching](HeadshotResized.jpg)
+![Branching](Headshot.jpg)
 Hello Eveyone, my name is Ryan Moreno.
 
 ## Header 2

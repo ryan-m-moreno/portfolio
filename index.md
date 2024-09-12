@@ -98,8 +98,9 @@ end
 
 ### Large image
 
-![Branching] (https://github.com/username/repository/raw/main/path/to/
-Headshot.jpg)
+![Branching] ![Alt text](https://github.com/username/repository/raw/main/path/to/image.png/Headshot.jp)
+
+
 
 
 ### Definition lists can be used with HTML syntax.

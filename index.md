@@ -27,7 +27,7 @@ I have a keen interest in various areas of technology, including SOC analysis, s
 
 
 ### CERTIFICATES
-![Branching](googlesecurity.png) ![Branching](security+.png) ![Branching](cyberwire.png)
+![Branching](googlesecurity.png) ![Branching](security+.png) ![Branching](network+.png)
 
 #### PODCAST
 

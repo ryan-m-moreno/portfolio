@@ -98,7 +98,8 @@ end
 
 ### Large image
 
-![Branching] (Headshot.jpg)
+![Branching] (https://github.com/username/repository/raw/main/path/to/
+Headshot.jpg)
 
 
 ### Definition lists can be used with HTML syntax.

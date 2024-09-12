@@ -32,7 +32,9 @@ I have a keen interest in various areas of technology, including SOC analysis, s
 #### PODCAST
 
 To stay up-to-date with the latest in cybersecurity, I regularly listen to "CyberWire Daily." Additionally, I am an avid listener of "Darknet Diaries," and I am currently on episode 65 out of 159.
-![Branching](cyberwire.png)                               ![Branching](darknetdiaries.png)
+
+
+![Branching](cyberwire.png)                                                                                                     ![Branching](darknetdiaries.png)
 
 ##### Header 5
 

@@ -31,9 +31,8 @@ I have a keen interest in various areas of technology, including SOC analysis, s
 
 #### PODCAST
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+To stay up-to-date with the latest in cybersecurity, I regularly listen to "CyberWire Daily." Additionally, I am an avid listener of "Darknet Diaries," and I am currently on episode 65 out of 159.
+![Branching](Headshot.jpg)
 
 ##### Header 5
 

@@ -96,7 +96,7 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+
 
 ![Branching](Headshot.jpg)
 

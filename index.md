@@ -22,7 +22,7 @@ I started my professional journey in early 2024 and have since earned certificat
 
 I have a keen interest in various areas of technology, including SOC analysis, software engineering, networking, and hardware. My enthusiasm for technology drives my continuous learning and growth in this dynamic field.
 
-## Header 2
+## PROJECTS 
 
 > This is a blockquote following a header.
 >

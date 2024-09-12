@@ -1,17 +1,9 @@
 ---
 
 ---
-
-
-
-
-
-
-
-
 ```
-# ABOUT ME
- ```
+ABOUT ME
+```
 ![Branching](Headshot.jpg)
 
 
@@ -23,15 +15,15 @@ I started my professional journey in early 2024 and have since earned certificat
 
 I have a keen interest in various areas of technology, including SOC analysis, software engineering, networking, and hardware. My enthusiasm for technology drives my continuous learning and growth in this dynamic field.
 ```
-## PROJECTS 
+PROJECTS 
 ```
 
 ```
-### CERTIFICATES
+CERTIFICATES
 ```
 ![Branching](googlesecurity.png) ![Branching](security+.png) ![Branching](network+.png)
 ```
-#### PODCAST
+PODCAST
 ```
 To stay up-to-date with the latest in cybersecurity, I regularly listen to "CyberWire Daily." Additionally, I am an avid listener of "Darknet Diaries," and I am currently on episode 65 out of 159.
 
@@ -43,19 +35,20 @@ To stay up-to-date with the latest in cybersecurity, I regularly listen to "Cybe
 
 
 * * *
-##### BLOG
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
+BLOG
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+

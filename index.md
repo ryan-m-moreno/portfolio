@@ -36,12 +36,12 @@ To stay up-to-date with the latest in cybersecurity, I regularly listen to "Cybe
 
 ![Branching](cyberwire.png)                                                                                                     ![Branching](darknetdiaries.png)
 
-##### BLOG
+
 
 
 
 * * *
-
+##### BLOG
 
 
 

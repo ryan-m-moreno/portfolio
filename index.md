@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://github.com/ryan-m-moreno/tech/image.png/Headshot.jp)
+![Branching](Headshot.jpg)
 
 
 

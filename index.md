@@ -24,7 +24,7 @@ I have a keen interest in various areas of technology, including SOC analysis, s
 
 ## PROJECTS 
 
-step by step
+
 
 ### CERTIFICATES
 
@@ -84,9 +84,6 @@ step by step
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](HeadshotResized.jpg)
 
 
 
@@ -99,9 +96,9 @@ step by step
 
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+
 ```
 
 ```
-The final element.
+
 ```

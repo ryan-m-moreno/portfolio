@@ -98,7 +98,7 @@ end
 
 
 
-![Branching](Headshot.jpg)
+![Branching](HeadshotResized.jpg)
 
 
 

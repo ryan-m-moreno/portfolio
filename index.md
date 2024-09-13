@@ -15,8 +15,23 @@ I started my professional journey in early 2024 and have since earned certificat
 
 I have a keen interest in various areas of technology, including SOC analysis, software engineering, networking, and hardware. My enthusiasm and curiosity for technology drives my continuous learning and growth in this dynamic field.
 ```
-PROJECTS 
+EXPERIENCE
 ```
+Company: Titan Technologies 	                                                                                                             June 2024 - December 2024
+Title: Technical Support Analyst
+Logged incidents and service requests into the ticket tracking system to enhance management and resolution processes, leading to a 20% reduction in wait time.
+Provided troubleshooting and resolution support via Active Directory, utilizing VoIP, email, and remote connectivity tools to address and resolve issues effectively.
+Collect information regarding the incident or service request, document the details of the issue or question, and record the troubleshooting steps performed into the ticket tracking system.
+Responded to inquiries and provided general information through VoIP, chat, and email, ensuring clear and effective communication.
+Resolved incidents and service requests efficiently, escalating issues to the appropriate support staff or service groups as needed, and communicated effectively to ensure timely problem resolution.
+
+Company: uBreakiFix                                                                                                                     January 2017 - February 2018
+Title: IT System Technician 
+Conducted diagnostics and performed repairs on endpoint hardware to ensure peak functionality and performance.
+Performed computer and laptop reimaging and ensured proper disposal to securely and thoroughly remove all sensitive information.
+Performed diagnostics by examining files and task manager for malware. Utilized established playbooks to mitigate and remove any identified indicators of compromise (IOCs).
+Regularly maintains and updates company system hardware and software to ensure ongoing performance and security.
+Conducts data backups and recovery procedures to ensure data integrity and protection.
 
 ```
 CERTIFICATES

@@ -63,7 +63,7 @@ To stay up-to-date with the latest in cybersecurity, I regularly listen to "Cybe
 ```
 PROJECTS
 ```
-![Branching](Headshot.jpg)
+![Branching](pcbuild1.JPG)
 ![Branching](Headshot.jpg)
 ![Branching](Headshot.jpg)
 

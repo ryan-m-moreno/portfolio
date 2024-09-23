@@ -63,9 +63,10 @@ To stay up-to-date with the latest in cybersecurity, I regularly listen to "Cybe
 ```
 PROJECTS
 ```
+Building my own PC was an exhilarating experience that allowed me to tailor a powerful machine to meet my specific needs. I began by carefully researching the latest components, focusing on performance and compatibility. After selecting a high-end processor, a robust graphics card, and ample RAM, I meticulously assembled the system, ensuring optimal airflow and cable management. The culmination of this project was not only the satisfaction of creating a custom setup but also the impressive performance I achieved, enabling seamless multitasking. This hands-on experience deepened my understanding of computer hardware and solidified my passion for technology.
 ![Branching](pcbuild1.JPG)
 ![Branching](pcbuild2.jpg)
-![Branching](Headshot.jpg)
+![Branching](pcbuild3.JPG)
 
 
 

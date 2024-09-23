@@ -68,6 +68,7 @@ Building my own PC was an exhilarating experience that allowed me to tailor a po
 ![Branching](pcbuild1.JPG)
 ![Branching](pcbuild2.jpg)
 ![Branching](pcbuild3.JPG)
+
 ***
 
 

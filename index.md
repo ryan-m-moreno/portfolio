@@ -19,19 +19,19 @@ EXPERIENCE
 ```
 Company: Titan Technologies
 
-June 2024 - December 2024
+July 2024 - December 2024
 
-Title: Technical Support Analyst
+Title: IT Help Desk Coordinator
 
-* Logged incidents and service requests into the ticket tracking system to enhance management and resolution processes, leading to a 20% reduction in wait time.
+* Collected and documented detailed information on security incidents and service requests, including the nature of the issue and troubleshooting steps taken, in the ticket tracking system “SNOW” to ensure accurate tracking and effective resolution.
 
-* Provided troubleshooting and resolution support via Active Directory, utilizing VoIP, email, and remote connectivity tools to address and resolve issues effectively.
+* Utilized all available knowledge base articles to troubleshoot and resolve incidents and service requests efficiently, escalating complex issues to the appropriate support teams as necessary, while maintaining effective communication throughout the process.
 
-* Collect information regarding the incident or service request, document the details of the issue or question, and record the troubleshooting steps performed into the ticket tracking system.
+* Addressed client inquiries and delivered comprehensive information through VoIP and email ensuring clear and effective communication.
 
-* Responded to inquiries and provided general information through VoIP, chat, and email, ensuring clear and effective communication.
+* Followed up on and monitored incident and service request activity to meet and exceed company performance metrics, achieving a 20% reduction in completion time.
 
-* Resolved incidents and service requests efficiently, escalating issues to the appropriate support staff or service groups as needed, and communicated effectively to ensure timely problem resolution.
+* Provided resolution support to colleagues through Active Directory, utilizing VoIP, email, and remote connectivity tools to effectively address and resolve issues.
 
 Company: uBreakiFix
 
@@ -39,14 +39,15 @@ January 2017 - February 2018
 
 Title: IT System Technician
 
-* Conducted diagnostics and performed repairs on endpoint hardware to ensure peak functionality and performance.
+* Executed diagnostics and performed repairs on endpoint hardware to ensure peak functionality and performance.
 
+* Conducted threat detection diagnostics through malware analysis by examining files and task manager processes for potential malware. Utilized established playbooks to effectively mitigate and eliminate any identified indicators of compromise (IOCs).
+  
 * Performed computer and laptop reimaging and ensured proper disposal to securely and thoroughly remove all sensitive information.
   
-* Performed diagnostics by examining files and task manager for malware. Utilized established playbooks to mitigate and remove any identified indicators of compromise (IOCs).
-  
-* Regularly maintains and updates company system hardware and software to ensure ongoing performance and security.
-Conducts data backups and recovery procedures to ensure data integrity and protection.
+* Regularly applies hardening techniques and maintains/upgrades company systems, hardware, and software to ensure optimal performance and enhance security posture.
+
+* Conducts data backups and recovery procedures to ensure data integrity and protection.
 
 ```
 CERTIFICATES

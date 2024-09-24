@@ -23,12 +23,12 @@ July 2024 - December 2024
 
 Title: IT Help Desk Coordinator
 
-* Collected and documented detailed information on security incidents and service requests, including the nature of the issue and troubleshooting steps taken, in the ticket tracking system “SNOW” to ensure accurate tracking and effective resolution.
+* Collected and documented detailed information on security incidents and service requests, including the nature of the issue and troubleshooting steps taken, within the ServiceNow (SNOW) ticket tracking system to ensure accurate tracking and effective resolution.
 
 * Utilized all available knowledge base articles to troubleshoot and resolve incidents and service requests efficiently, escalating complex issues to the appropriate support teams as necessary, while maintaining effective communication throughout the process.
 
 * Addressed client inquiries and delivered comprehensive information through VoIP and email ensuring clear and effective communication.
-
+  
 * Followed up on and monitored incident and service request activity to meet and exceed company performance metrics, achieving a 20% reduction in completion time.
 
 * Provided resolution support to colleagues through Active Directory, utilizing VoIP, email, and remote connectivity tools to effectively address and resolve issues.
@@ -39,15 +39,15 @@ January 2017 - February 2018
 
 Title: IT System Technician
 
-* Executed diagnostics and performed repairs on endpoint hardware to ensure peak functionality and performance.
+* Conducted diagnostics and performed repairs on endpoint hardware to ensure optimal functionality and performance, while meticulously documenting all processes and outcomes.
 
-* Conducted threat detection diagnostics through malware analysis by examining files and task manager processes for potential malware. Utilized established playbooks to effectively mitigate and eliminate any identified indicators of compromise (IOCs).
+* Managed threat detection diagnostics through malware analysis by examining files and task manager processes for potential malware. Utilized established playbooks to effectively mitigate and eliminate any identified indicators of compromise (IOCs).
   
-* Performed computer and laptop reimaging and ensured proper disposal to securely and thoroughly remove all sensitive information.
+* Executed data backups and recovery procedures to ensure data integrity and protection.
   
-* Regularly applies hardening techniques and maintains/upgrades company systems, hardware, and software to ensure optimal performance and enhance security posture.
+* Performed computer reimaging and ensured proper disposal to securely and thoroughly remove all sensitive information.
 
-* Conducts data backups and recovery procedures to ensure data integrity and protection.
+* Regularly implements hardening techniques, including software system updates, to reduce the risk of malware attacks by up to 50%, thereby ensuring optimal performance and enhancing the overall security posture.
 
 ```
 CERTIFICATES

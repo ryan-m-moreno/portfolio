@@ -19,7 +19,7 @@ EXPERIENCE
 ```
 Company: Titan Technologies
 
-July 2024 - December 2024
+July 2024 - October 2024
 
 Title: IT Help Desk Coordinator
 
@@ -52,7 +52,7 @@ Title: IT System Technician
 ```
 CERTIFICATES
 ```
-![Branching](googlesecurity.png) ![Branching](security+.png) ![Branching](network+.png)
+![Branching](googlesecurity.png) ![Branching](security+.png) 
 ```
 PODCAST
 ```

@@ -19,9 +19,9 @@ EXPERIENCE
 ```
 Company: Titan Technologies
 
-July 2024 - October 2024
-
 Title: IT Help Desk Coordinator
+
+July 2024 - October 2024
 
 * Collected and documented detailed information on security incidents and service requests, including the nature of the issue and troubleshooting steps taken, within the ServiceNow (SNOW) ticket tracking system to ensure accurate tracking and effective resolution.
 
@@ -35,18 +35,18 @@ Title: IT Help Desk Coordinator
 
 Company: Finance 	                                                    
 
-March 2018 - June 2024 
+Title: Supervisor
 
-Title: Supervisor  
+March 2018 - June 2024  
 
 * I have previously pursued a career in finance, where I developed a strong foundation in essential professional skills, including effective communication, collaboration, teamwork, adaptability, and attention to detail. My experience involved working closely with cross-functional teams and clearly conveying technical concepts to diverse stakeholders. This skill set has equipped me to navigate complex projects and foster productive working relationships, ensuring alignment and clarity across the organization.
 
 
 Company: uBreakiFix
 
-January 2017 - February 2018
-
 Title: IT System Technician
+
+January 2017 - February 2018
 
 * Conducted diagnostics and performed repairs on endpoint hardware to ensure optimal functionality and performance, while meticulously documenting all processes and outcomes.
 

@@ -9,9 +9,9 @@ ABOUT ME
 
 Hello Everyone,
 
-My name is Ryan Moreno. I am currently Technical Support Analyst, and although I am at the beginning of my professional career, I have always had a deep interest in technology. Previously, I worked in finance, and while I gained valuable experience in that field, my passion for technology motivated me to transition to a tech-focused career.
+My name is Ryan Moreno. I am currently IT Help Desk Coordinator, and although I am at the beginning of my professional career, I have always had a deep interest in technology. Previously, I worked in finance, and while I gained valuable experience in that field, my passion for technology motivated me to transition to a tech-focused career.
 
-I started my professional journey in early 2024 and have since earned certifications in Google Cybersecurity and CompTIA Security+. I am currently pursuing my CompTIA Network+ certification. Given the ever-evolving nature of technology, I stay informed about industry trends through podcasts such as CyberWire and Darknet Diaries.
+I started my professional journey in early 2024 and have since earned certifications in Google Cybersecurity. I am currently pursuing my CompTIA Security+ certification. Given the ever-evolving nature of technology, I stay informed about industry trends through podcasts such as CyberWire and Darknet Diaries.
 
 I have a keen interest in various areas of technology, including SOC analysis, software engineering, networking, and hardware. My enthusiasm and curiosity for technology drives my continuous learning and growth in this dynamic field.
 ```
@@ -32,6 +32,15 @@ Title: IT Help Desk Coordinator
 * Followed up on and monitored incident and service request activity to meet and exceed company performance metrics, achieving a 20% reduction in completion time.
 
 * Provided resolution support to colleagues through Active Directory, utilizing VoIP, email, and remote connectivity tools to effectively address and resolve issues.
+
+Company: Finance 	                                                    
+
+March 2018 - June 2024 
+
+Title: Supervisor  
+
+* I have previously pursued a career in finance, where I developed a strong foundation in essential professional skills, including effective communication, collaboration, teamwork, adaptability, and attention to detail. My experience involved working closely with cross-functional teams and clearly conveying technical concepts to diverse stakeholders. This skill set has equipped me to navigate complex projects and foster productive working relationships, ensuring alignment and clarity across the organization.
+
 
 Company: uBreakiFix
 

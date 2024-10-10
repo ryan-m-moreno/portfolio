@@ -80,7 +80,7 @@ Building my own PC was an exhilarating experience that allowed me to tailor a po
 
 ***
 
-
+![Branching](pcbuild1.JPG)
 
 
 

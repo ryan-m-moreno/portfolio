@@ -79,10 +79,10 @@ Building my own PC was an exhilarating experience that allowed me to tailor a po
 ![Branching](pcbuild3.JPG)
 
 ***
-<video width="600" controls>
-    <source src="socproject.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
+[![Watch my video](https://img.youtube.com/vi/https://youtu.be/3VD9PD_pGz8/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/3VD9PD_pGz8)
+
+***
 
 
 

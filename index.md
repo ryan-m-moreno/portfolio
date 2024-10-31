@@ -80,7 +80,7 @@ Building my own PC was an exhilarating experience that allowed me to tailor a po
 
 ***
 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3VD9PD_pGz8)](https://www.youtube.com/watch?v=3VD9PD_pGz8)
 
 ***
 

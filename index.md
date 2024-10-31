@@ -81,7 +81,6 @@ Building my own PC was an exhilarating experience that allowed me to tailor a po
 ***
 In my recent project, I developed a comprehensive Security Operations Center (SOC) using a virtual machine, which streamlined the entire setup while maximizing efficiency. I configured the virtual machine to host a dedicated operating system where I deployed a honeypot to lure and capture malicious activity, allowing me to analyze attack vectors and techniques in a controlled environment. Additionally, I integrated a Security Information and Event Management (SIEM) system that aggregated and correlated logs from the honeypot. This project not only provided valuable insights into potential security threats but also demonstrated the effectiveness of utilizing a functional SOC.
 
- 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3VD9PD_pGz8/0.jpg)](https://www.youtube.com/watch?v=3VD9PD_pGz8)
 
 ***

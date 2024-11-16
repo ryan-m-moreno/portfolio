@@ -25,21 +25,31 @@ July 2024 - October 2024
 
 * Collected and documented detailed information on security incidents and service requests, including the nature of the issue and troubleshooting steps taken, within the ServiceNow (SNOW) ticket tracking system to ensure accurate tracking and effective resolution.
 
-* Utilized all available knowledge base articles to troubleshoot and resolve incidents and service requests efficiently, escalating complex issues to the appropriate support teams as necessary, while maintaining effective communication throughout the process.
+* Utilized multiple knowledge bases across various programs to efficiently troubleshoot and resolve incidents and service requests, integrating information from diverse platforms to identify effective solutions, and escalated specific issues to the appropriate specialized department when necessary to ensure timely resolution.
 
 * Addressed client inquiries and delivered comprehensive information through VoIP and email ensuring clear and effective communication.
   
-* Followed up on and monitored incident and service request activity to meet and exceed company performance metrics, achieving a 20% reduction in completion time.
+* Proactively monitored and followed up on incident and service request activity to ensure alignment with company performance metrics, resulting in a 20% reduction in completion time.
 
-* Provided resolution support to colleagues through Active Directory, utilizing VoIP, email, and remote connectivity tools to effectively address and resolve issues.
+* Provided resolution support to colleagues through Active Directory, utilizing VoIP, email, and remote connectivity tools “Bamgar" to effectively address and resolve issues.
 
-Company: Finance 	                                                    
+
+Company: MidSouth Bank  	                                                    
 
 Title: Supervisor
 
-March 2018 - June 2024  
+July 2022 - June 2024  
 
-* I have previously pursued a career in finance, where I developed a strong foundation in essential professional skills, including effective communication, collaboration, teamwork, adaptability, and attention to detail. My experience involved working closely with cross-functional teams and clearly conveying technical concepts to diverse stakeholders. This skill set has equipped me to navigate complex projects and foster productive working relationships, ensuring alignment and clarity across the organization.
+* I previously pursued a career in finance, where I developed a strong foundation in key professional skills, including leadership, relationship-building, and organizational expertise. Throughout my career, I successfully managed complex projects and communicated technical concepts clearly to diverse stakeholders.
+
+
+Company: AUTOPAY
+
+Title: Loan Processor
+
+February 2018 - July 2022
+
+* This position has equipped me with the skills to collaborate effectively with cross-functional teams, effective communication, and ensure alignment and clarity across the organization.
 
 
 Company: uBreakiFix
@@ -48,15 +58,15 @@ Title: IT System Technician
 
 January 2017 - February 2018
 
-* Conducted diagnostics and performed repairs on endpoint hardware to ensure optimal functionality and performance, while meticulously documenting all processes and outcomes.
+* Conducted diagnostics and repairs on mobile devices, computer hardware, and Internet of Things (IoT) devices to ensure optimal functionality and performance, while maintaining detailed documentation of all procedures and results.
 
-* Managed threat detection diagnostics through malware analysis by examining files and task manager processes for potential malware. Utilized established playbooks to effectively mitigate and eliminate any identified indicators of compromise (IOCs).
+* Managed threat detection diagnostics through malware analysis by examining logs, files, and running processes to identify potential threats. Leveraged established playbooks to efficiently contain and mitigate identified Indicators of Compromise (IOCs).
   
-* Executed data backups and recovery procedures to ensure data integrity and protection.
+* Executed data transfer and backups to ensure the integrity, security, and protection of critical data.
   
-* Performed computer reimaging and ensured proper disposal to securely and thoroughly remove all sensitive information.
+* Improved service efficiency and enhanced customer satisfaction by reducing customer turnaround time by 25%.
 
-* Regularly implements hardening techniques, including software system updates, to reduce the risk of malware attacks by up to 50%, thereby ensuring optimal performance and enhancing the overall security posture.
+* Performed imaging and reimaging of operating systems on computers, including both macOS and Windows, ensuring proper configuration and seamless functionality.
 
 ```
 CERTIFICATES
@@ -65,7 +75,7 @@ CERTIFICATES
 ```
 PODCAST
 ```
-To stay up-to-date with the latest in cybersecurity, I regularly listen to "CyberWire Daily." Additionally, I am an avid listener of "Darknet Diaries," and I am currently on episode 65 out of 159.
+To stay up-to-date with the latest in cybersecurity, I regularly listen to "CyberWire Daily." Additionally, I am an avid listener of "Darknet Diaries," and I am currently on episode 88 out of 159.
 
 
 ![Branching](cyberwire.png)                                                                                                     ![Branching](darknetdiaries.png)

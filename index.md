@@ -34,6 +34,7 @@ July 2024 - October 2024
 * Provided resolution support to colleagues through Active Directory, utilizing VoIP, email, and remote connectivity tools “Bamgar" to effectively address and resolve issues.
 
 
+
 Company: MidSouth Bank  	                                                    
 
 Title: Supervisor
@@ -43,6 +44,7 @@ July 2022 - June 2024
 * I previously pursued a career in finance, where I developed a strong foundation in key professional skills, including leadership, relationship-building, and organizational expertise. Throughout my career, I successfully managed complex projects and communicated technical concepts clearly to diverse stakeholders.
 
 
+
 Company: AUTOPAY
 
 Title: Loan Processor
@@ -50,6 +52,7 @@ Title: Loan Processor
 February 2018 - July 2022
 
 * This position has equipped me with the skills to collaborate effectively with cross-functional teams, effective communication, and ensure alignment and clarity across the organization.
+
 
 
 Company: uBreakiFix

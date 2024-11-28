@@ -21,7 +21,7 @@ Company: Titan Technologies
 
 Title: IT Help Desk Coordinator
 
-July 2024 - October 2024
+July 2024 - December 2024
 
 * Collected and documented detailed information on security incidents and service requests, including the nature of the issue and troubleshooting steps taken, within the ServiceNow (SNOW) ticket tracking system to ensure accurate tracking and effective resolution.
 

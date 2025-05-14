@@ -9,11 +9,11 @@ whoami
 
 Hello Everyone,
 
-My name is Ryan Moreno. I am currently IT Help Desk Coordinator, and although I am at the beginning of my professional career, I have always had a deep interest in technology. Previously, I worked in finance, and while I gained valuable experience in that field, my passion for technology motivated me to transition to a tech-focused career.
+My name is Ryan Moreno. My most recent role was as an IT Help Desk Coordinator, where I developed hands-on experience supporting technology solutions and end users. Although I am at the early stages of my professional career, I have always had a strong interest in technology. Prior to transitioning into IT, I worked in the finance, where I gained valuable analytical and problem-solving skills. However, my passion for technology ultimately led me to pursue a more tech-focused path, aligning my career with my long-standing interests and strengths.
 
-I started my professional journey in early 2024 and have since earned certifications in Google Cybersecurity. I am currently pursuing my CompTIA Security+ certification. Given the ever-evolving nature of technology, I stay informed about industry trends through podcasts such as CyberWire and Darknet Diaries.
+I started my professional journey in early 2024 and have since earned certifications in Google Cybersecurity. I am currently pursuing my CompTIA Networking+ and Security+ certification. Given the ever-evolving nature of technology, I stay informed about industry trends through podcasts such as CyberWire and Darknet Diaries.
 
-I have a keen interest in various areas of technology, including SOC analysis, software engineering, networking, and hardware. My enthusiasm and curiosity for technology drives my continuous learning and growth in this dynamic field.
+I have a strong interest in various areas of technology, and my enthusiasm and curiosity continuously drive my learning and professional development in this dynamic field.
 ```
 EXPERIENCE
 ```
@@ -78,7 +78,7 @@ CERTIFICATES
 ```
 PODCAST
 ```
-To stay up-to-date with the latest in cybersecurity, I regularly listen to "CyberWire Daily." Additionally, I am an avid listener of "Darknet Diaries," and I am currently on episode 88 out of 159.
+To stay up-to-date with the latest in cybersecurity, I regularly listen to "CyberWire Daily." Additionally, I am an avid listener of "Darknet Diaries".
 
 
 ![Branching](cyberwire.png)                                                                                                     ![Branching](darknetdiaries.png)

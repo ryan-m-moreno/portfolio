@@ -32,6 +32,8 @@ July 2024 - March 2025
 * Reduced average ticket resolution time by 20% by streamlining troubleshooting workflows and improving documentation practices.
  
 
+
+
 Company: MidSouth Bank  	                                                    
 
 Title: Supervisor
@@ -47,6 +49,8 @@ July 2022 - June 2024
 * Supervised daily branch operations, including transaction approvals, staff scheduling, and compliance with banking regulations, ensuring efficient service and adherence to policy.
 
 
+
+
 Company: AUTOPAY
 
 Title: Loan Processor
@@ -60,6 +64,8 @@ February 2018 - July 2022
 * Ensured compliance with federal and state lending regulations, including GLBA (Gramm-Leach-Bliley Act), SOX (Sarbanes-Oxley Act), and PCI DSS (Payment Card Industry Data Security Standard).
  
 * Communicated effectively with borrowers to clarify application details and resolve discrepancies, enhancing customer satisfaction and loan turnaround times turnaround time by 25%.
+
+
  
 
 Company: uBreakiFix

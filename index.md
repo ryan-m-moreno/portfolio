@@ -21,19 +21,16 @@ Company: Titan Technologies
 
 Title: IT Help Desk Coordinator
 
-July 2024 - December 2024
+July 2024 - April 2025
 
-* Collected and documented detailed information on security incidents and service requests, including the nature of the issue and troubleshooting steps taken, within the ServiceNow (SNOW) ticket tracking system to ensure accurate tracking and effective resolution.
+* Provided first-line technical support to colleagues, students, and faculty by utilizing Active Directory, VoIP, email, and remote connectivity tools such as Bomgar to efficiently diagnose and resolve a wide range of user issues.
 
-* Utilized multiple knowledge bases across various programs to efficiently troubleshoot and resolve incidents and service requests, integrating information from diverse platforms to identify effective solutions, and escalated specific issues to the appropriate specialized department when necessary to ensure timely resolution.
-
-* Addressed client inquiries and delivered comprehensive information through VoIP and email ensuring clear and effective communication.
+* Documented service requests in SNOW (ServiceNow) ticketing system with a high level of accuracy, detailing the nature of issues, troubleshooting steps, and resolution actions to support effective incident tracking, knowledge management, and prompt resolution.
+ 
+* Utilized multiple knowledge bases and various software platforms to troubleshoot and resolve incidents and service requests, applying the 7-step networking methodology to identify effective solutions.
   
-* Proactively monitored and followed up on incident and service request activity to ensure alignment with company performance metrics, resulting in a 20% reduction in completion time.
-
-* Provided resolution support to colleagues through Active Directory, utilizing VoIP, email, and remote connectivity tools “Bamgar" to effectively address and resolve issues.
-
-
+* Reduced average ticket resolution time by 20% by streamlining troubleshooting workflows and improving documentation practices.
+ 
 
 Company: MidSouth Bank  	                                                    
 
@@ -41,8 +38,13 @@ Title: Supervisor
 
 July 2022 - June 2024  
 
-* I previously pursued a career in finance, where I developed a strong foundation in key professional skills, including leadership, relationship-building, and organizational expertise. Throughout my career, I successfully managed complex projects and communicated technical concepts clearly to diverse stakeholders.
-
+* Led and coached a team of tellers and bankers, fostering a high-performance culture and maintaining exceptional customer service standards.
+ 
+* Resolved escalated customer issues, balancing client satisfaction with bank policy to maintain trust and service quality.
+ 
+* Monitored cash handling, audits, and operational procedures, reducing errors and ensuring compliance with internal controls and regulatory requirements.
+ 
+* Supervised daily branch operations, including transaction approvals, staff scheduling, and compliance with banking regulations, ensuring efficient service and adherence to policy.
 
 
 Company: AUTOPAY
@@ -51,9 +53,14 @@ Title: Loan Processor
 
 February 2018 - July 2022
 
-* This position has equipped me with the skills to collaborate effectively with cross-functional teams, effective communication, and ensure alignment and clarity across the organization.
-
-
+* Coordinated with loan officers, underwriters, and clients to gather and complete required documentation, ensuring timely processing of loan files.
+ 
+* Maintained detailed and organized loan files, tracking progress from application to funding while meeting tight deadlines and regulatory standards.
+ 
+* Ensured compliance with federal and state lending regulations, including GLBA (Gramm-Leach-Bliley Act), SOX (Sarbanes-Oxley Act), and PCI DSS (Payment Card Industry Data Security Standard).
+ 
+* Communicated effectively with borrowers to clarify application details and resolve discrepancies, enhancing customer satisfaction and loan turnaround times turnaround time by 25%.
+ 
 
 Company: uBreakiFix
 
@@ -61,13 +68,11 @@ Title: IT System Technician
 
 January 2017 - February 2018
 
-* Conducted diagnostics and repairs on mobile devices, computer hardware, and Internet of Things (IoT) devices to ensure optimal functionality and performance, while maintaining detailed documentation of all procedures and results.
+* Conducted diagnostics and repairs on mobile devices, computer hardware, and IoT (Internet of Things) devices to ensure optimal functionality and performance, while maintaining detailed documentation of all procedures and results.
 
-* Managed threat detection diagnostics through malware analysis by examining logs, files, and running processes to identify potential threats. Leveraged established playbooks to efficiently contain and mitigate identified Indicators of Compromise (IOCs).
+* Managed threat detection diagnostics through malware analysis by examining logs, files, and running processes to identify potential threats. Leveraged established playbooks to efficiently contain and mitigate identified IOC (Indicators of Compromise).
   
-* Executed data transfer and backups to ensure the integrity, security, and protection of critical data.
-  
-* Improved service efficiency and enhanced customer satisfaction by reducing customer turnaround time by 25%.
+* Executed data transfer and backups to ensure the integrity, security, and protection of critical data.  
 
 * Performed imaging and reimaging of operating systems on computers, including both macOS and Windows, ensuring proper configuration and seamless functionality.
 

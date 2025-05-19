@@ -9,9 +9,9 @@ whoami
 
 Hello Everyone,
 
-My name is Ryan Moreno. My most recent role was as an IT Help Desk Coordinator, where I developed hands-on experience supporting technology solutions and end users. Although I am at the early stages of my professional career, I have always had a strong interest in technology. Prior to transitioning into IT, I worked in the finance, where I gained valuable analytical and problem-solving skills. However, my passion for technology ultimately led me to pursue a more tech-focused path, aligning my career with my long-standing interests and strengths.
+My name is Ryan Moreno. My most recent role was as an IT Help Desk Coordinator, where I developed hands-on experience supporting technology solutions and end users. Although I am at the early stages of my professional career, I have always had a strong interest in technology. Prior to transitioning into IT, I worked in finance, where I gained valuable analytical and problem-solving skills. However, my passion for technology ultimately led me to pursue a more tech-focused path, aligning my career with my long-standing interests and strengths.
 
-I started my professional journey in early 2024 and have since earned certifications in Google Cybersecurity. I am currently pursuing my CompTIA Networking+ and Security+ certification. Given the ever-evolving nature of technology, I stay informed about industry trends through podcasts such as CyberWire and Darknet Diaries.
+I am currently pursuing CompTIA Network+ and Security+ certifications to strengthen my foundational knowledge in networking and cybersecurity. To stay current with the rapidly evolving technology landscape, I regularly follow industry-leading podcasts such as The CyberWire and Darknet Diaries.
 
 I have a strong interest in various areas of technology, and my enthusiasm and curiosity continuously drive my learning and professional development in this dynamic field.
 ```
@@ -25,7 +25,7 @@ July 2024 - March 2025
 
 * Provided first-line technical support to colleagues, students, and faculty by utilizing Active Directory, VoIP, email, and remote connectivity tools such as Bomgar to efficiently diagnose and resolve a wide range of user issues.
 
-* Documented service requests in SNOW (ServiceNow) ticketing system with a high level of accuracy, detailing the nature of issues, troubleshooting steps, and resolution actions to support effective incident tracking, knowledge management, and prompt resolution.
+* Documented service requests in SNOW (ServiceNow) ticketing system with a high level of accuracy, detailing the nature of issues, troubleshooting steps, and resolution actions to support effective incident tracking.
  
 * Utilized multiple knowledge bases and various software platforms to troubleshoot and resolve incidents and service requests, applying the 7-step networking methodology to identify effective solutions.
   
@@ -40,7 +40,7 @@ Title: Supervisor
 
 July 2022 - June 2024  
 
-* Led and coached a team of tellers and bankers, fostering a high-performance culture and maintaining exceptional customer service standards.
+* Led and coached a team of tellers, fostering a high-performance culture and maintaining exceptional customer service standards.
  
 * Resolved escalated customer issues, balancing client satisfaction with bank policy to maintain trust and service quality.
  
@@ -57,13 +57,13 @@ Title: Loan Processor
 
 February 2018 - July 2022
 
+* Communicated effectively with borrowers to clarify application details and resolve discrepancies, enhancing customer satisfaction and loan turnaround times turnaround time by 25%.
+ 
 * Coordinated with loan officers, underwriters, and clients to gather and complete required documentation, ensuring timely processing of loan files.
  
 * Maintained detailed and organized loan files, tracking progress from application to funding while meeting tight deadlines and regulatory standards.
  
 * Ensured compliance with federal and state lending regulations, including GLBA (Gramm-Leach-Bliley Act), SOX (Sarbanes-Oxley Act), and PCI DSS (Payment Card Industry Data Security Standard).
- 
-* Communicated effectively with borrowers to clarify application details and resolve discrepancies, enhancing customer satisfaction and loan turnaround times turnaround time by 25%.
 
 
  

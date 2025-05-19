@@ -21,7 +21,7 @@ Company: Titan Technologies
 
 Title: IT Help Desk Coordinator
 
-July 2024 - March 2025
+July 2024 -  February 2025
 
 * Provided first-line technical support to colleagues, students, and faculty by utilizing Active Directory, VoIP, email, and remote connectivity tools such as Bomgar to efficiently diagnose and resolve a wide range of user issues.
 

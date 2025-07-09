@@ -23,26 +23,26 @@ Title: IT Help Desk Coordinator
 
 July 2024 -  February 2025
 
-* Provided first-line technical support to colleagues, students, and faculty by utilizing Active Directory, VoIP, email, and remote connectivity tools such as Bomgar to efficiently diagnose and resolve a wide range of user issues.
+* Delivered Tier 1 technical support for a high-volume Managed Service Provider (MSP) supporting Florida Virtual School (FLVS), utilizing VoIP, Microsoft Outlook, Active Directory, and remote support tools such as Bomgar to efficiently diagnose and resolve user issues.
 
-* Documented service requests in SNOW (ServiceNow) ticketing system with a high level of accuracy, detailing the nature of issues, troubleshooting steps, and resolution actions to support effective incident tracking.
+* Applied the 7-step networking methodology to troubleshoot and resolve network-related server issues, including DNS resolution failures and connectivity disruptions, ensuring reliable access to critical services and infrastructure.
  
-* Utilized multiple knowledge bases and various software platforms to troubleshoot and resolve incidents and service requests, applying the 7-step networking methodology to identify effective solutions.
+* Utilized internal knowledge base, company website, and Microsoft Teams chat to accurately respond to customer inquiries and provide educational support, enhancing user understanding and satisfaction.
   
-* Reduced average ticket resolution time by 20% by streamlining troubleshooting workflows and improving documentation practices.
+* Accurately documented service requests in the ServiceNow (SNOW) ticketing system, including detailed issue descriptions, troubleshooting steps, and resolution actions to ensure effective incident tracking and promote knowledge sharing.
  
 
 
 
 Company: MidSouth Bank  	                                                    
 
-Title: Supervisor
+Title: Teller Supervisor 
 
 July 2022 - June 2024  
 
-* Led and coached a team of tellers, fostering a high-performance culture and maintaining exceptional customer service standards.
- 
 * Resolved escalated customer issues, balancing client satisfaction with bank policy to maintain trust and service quality.
+ 
+* Led and coached a team of tellers, fostering a high-performance culture and maintaining exceptional customer service standards.
  
 * Monitored cash handling, audits, and operational procedures, reducing errors and ensuring compliance with internal controls and regulatory requirements.
  
@@ -57,13 +57,13 @@ Title: Loan Processor
 
 February 2018 - July 2022
 
-* Communicated effectively with borrowers to clarify application details and resolve discrepancies, enhancing customer satisfaction and loan turnaround times turnaround time by 25%.
+* Collaborated with loan officers, underwriters, and clients to gather and complete required documentation, maintaining effective cross-functional communication that supported the timely and accurate processing of loan files.
  
-* Coordinated with loan officers, underwriters, and clients to gather and complete required documentation, ensuring timely processing of loan files.
+* Communicated effectively with customers to clarify application details and resolve discrepancies, resulting in improved customer satisfaction and a 25% reduction in loan turnaround time.
  
-* Maintained detailed and organized loan files, tracking progress from application to funding while meeting tight deadlines and regulatory standards.
+* Maintained detailed and organized loan files, tracking progress from application to funding using Microsoft Excel, while consistently meeting tight deadlines.
  
-* Ensured compliance with federal and state lending regulations, including GLBA (Gramm-Leach-Bliley Act), SOX (Sarbanes-Oxley Act), and PCI DSS (Payment Card Industry Data Security Standard).
+* Ensured strict compliance with federal and state lending regulations, including the Gramm-Leach-Bliley Act (GLBA), Sarbanes-Oxley Act (SOX), and Payment Card Industry Data Security Standard (PCI DSS).
 
 
  
@@ -74,8 +74,8 @@ Title: IT System Technician
 
 January 2017 - February 2018
 
-* Conducted diagnostics and repairs on mobile devices, computer hardware, and IoT (Internet of Things) devices to ensure optimal functionality and performance, while maintaining detailed documentation of all procedures and results.
-
+* Diagnosed and repaired mobile devices, desktops, laptops, and printers to ensure optimal performance and reliability. Meticulously documented procedures and outcomes in CRM-based ticketing systems to enhance service tracking and operational efficiency.
+  
 * Managed threat detection diagnostics through malware analysis by examining logs, files, and running processes to identify potential threats. Leveraged established playbooks to efficiently contain and mitigate identified IOC (Indicators of Compromise).
   
 * Executed data transfer and backups to ensure the integrity, security, and protection of critical data.  
